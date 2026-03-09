@@ -1,1 +1,7 @@
+Task2.3/1_medial_axis.mp4 filter=lfs diff=lfs merge=lfs -text
+Task2.3/2_medial_axis.mp4 filter=lfs diff=lfs merge=lfs -text
+Task2.3/3_medial_axis.mp4 filter=lfs diff=lfs merge=lfs -text
+ARk-Sub/Task2.3/1_medial_axis.mp4 filter=lfs diff=lfs merge=lfs -text
+ARk-Sub/Task2.3/2_medial_axis.mp4 filter=lfs diff=lfs merge=lfs -text
+ARk-Sub/Task2.3/3_medial_axis.mp4 filter=lfs diff=lfs merge=lfs -text
 *.mp4 filter=lfs diff=lfs merge=lfs -text
